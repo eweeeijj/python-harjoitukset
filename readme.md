@@ -13,3 +13,8 @@ Sain tehtyä tehtävät 1-6. Aluksi tuskailin viimeisten kolmen tehtävän kanss
 Tehtävät 1 ja 2 olivat helppoja ja kivoja. 
 Tehtävä 3, en ymmärrä mikä koodissa on väärin eikä anna 'Hemoglobiinisi on alhainen" tekstiä.
 Tehtäävä 4, vaikea.. yritän saada jotain tehtyä.
+
+
+## Moduuli 4 ##
+
+Nyt alkaa olla hankalaa.. Tehtävästä 1 selvisin mutta lopuista en enää ymmärrä mitään.
