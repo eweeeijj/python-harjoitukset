@@ -18,3 +18,11 @@ Tehtäävä 4, vaikea.. yritän saada jotain tehtyä.
 ## Moduuli 4 ##
 
 Nyt alkaa olla hankalaa.. Tehtävästä 1 selvisin mutta lopuista en enää ymmärrä mitään.
+
+## Moduuli 5 ##
+
+Oma tietokone hajosi, joten tehtävät jäi tekemättä..
+
+## Moduuli 6 ## 
+
+Sain varakoneelle vs coden ja muut tarvittavat toimimaan <3 Vihdoin pääsee taas kurssiin kiinni ja tekemään tehtävät!
