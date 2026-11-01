@@ -26,3 +26,6 @@ Oma tietokone hajosi, joten tehtävät jäi tekemättä..
 ## Moduuli 6 ## 
 
 Sain varakoneelle vs coden ja muut tarvittavat toimimaan <3 Vihdoin pääsee taas kurssiin kiinni ja tekemään tehtävät!
+
+EDIT!! Sain uuden oman koneen ja kaikki kurssiin liittyvät ohjelmat toimimaan! Nyt suoritan 
+rästiin jääneet tehtävät samalla kun seuraavan moduulin, Kiitos Heidi!
